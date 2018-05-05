@@ -1,0 +1,21 @@
+/home/fares/Downloads/clion-2017.3.1/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/fares/Desktop/spring18/inference
+The runtime libraries are included in /home/fares/Desktop/spring18/inference/cmake-build-debug/Gadde/bin
+The library files are included in /home/fares/Desktop/spring18/inference/cmake-build-debug/Gadde/lib
+-- system arch:  x86_64
+-- output path:  /home/fares/Desktop/spring18/inference/cmake-build-debug/Gadde
+ -- CUDA and Opencv Found 
+-- Copying /home/fares/Desktop/spring18/inference/tensorRTplugin/common.h
+-- Copying /home/fares/Desktop/spring18/inference/tensorRTplugin/mathFunctions.h
+-- Copying /home/fares/Desktop/spring18/inference/tensorRTplugin/pluginImplement.h
+-- Copying /home/fares/Desktop/spring18/inference/tensorRTplugin/tensorNet.h
+-- Copying /home/fares/Desktop/spring18/inference/util/cuda/cudaMappedMemory.h
+-- Copying /home/fares/Desktop/spring18/inference/util/cuda/cudaNormalize.h
+-- Copying /home/fares/Desktop/spring18/inference/util/cuda/cudaOverlay.h
+-- Copying /home/fares/Desktop/spring18/inference/util/cuda/cudaRGB.h
+-- Copying /home/fares/Desktop/spring18/inference/util/cuda/cudaResize.h
+-- Copying /home/fares/Desktop/spring18/inference/util/cuda/cudaUtility.h
+-- Copying /home/fares/Desktop/spring18/inference/util/cuda/cudaYUV.h
+-- Copying /home/fares/Desktop/spring18/inference/util/loadImage.h
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/fares/Desktop/spring18/inference/cmake-build-debug
